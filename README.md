@@ -50,16 +50,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulvijay81&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulvijay81.rahulvijay81&"  />
 </div>
